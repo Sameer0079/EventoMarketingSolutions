@@ -10765,3 +10765,16 @@ header.masthead h1 {
     display: inline-block;
     color: #FFFFFF;
 }
+
+/* SOCIAL MEDIA */
+div.socialmedia a{
+  margin-right: 15px !important;
+}
+
+div.socialmedia > a:hover i{
+  text-shadow: 2px 2px #607D8B;
+  transition: 0.5s ease-out;
+}
+footer{
+  background-color:white !important;
+}
