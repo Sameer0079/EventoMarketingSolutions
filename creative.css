@@ -10775,6 +10775,10 @@ div.socialmedia > a:hover i{
   text-shadow: 2px 2px #607D8B;
   transition: 0.5s ease-out;
 }
-footer{
-  background-color:white !important;
-}
+
+/* COPYRIGHT */
+.copyright{
+  color:rgba(255,255,255,0.5);
+  font-size:0.8em;
+  letter-spacing:.225em;
+  }
